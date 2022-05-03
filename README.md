@@ -11,6 +11,7 @@ Link del repositorio [aquí](https://github.com/AndresM2/Zork/tree/main/Zork).
 
 # Como Jugar
 **Si tienes alguna duda o quieres saber algún comando, escribe "help".**
+
 Para jugar, debes especificar una acción, por ejemplo **"look"** o **"grab"** seguido de un objeto **"key"** o **"sword"**
 Para moverte o atacar debes especificar una dirección (north, south, west, east).
 Para usar algún objeto debes equiparlo primero.
