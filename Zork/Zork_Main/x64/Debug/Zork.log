@@ -1,0 +1,12 @@
+﻿  Creature.cpp
+  Entity.cpp
+  Exit.cpp
+  Globals.cpp
+  Monster.cpp
+  Item.cpp
+  main.cpp
+  NPC.cpp
+  Player.cpp
+  World.cpp
+  Generando código...
+  Zork.vcxproj -> C:\Users\Andrés\Desktop\SANT MARC\PROGRAMACION\zorkCODE\Zork\Zork\x64\Debug\Zork.exe
